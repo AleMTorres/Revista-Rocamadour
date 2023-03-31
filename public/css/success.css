@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: #242424;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.container>h2 {
+    margin-top: 20%;
+    color: #dad527;
+}
